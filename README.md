@@ -4,7 +4,7 @@ Hi 👀 My name is Toan
 Web Developer
 -------------
 
-Passionate web developer with 2+ years exeperience. I started with HTML, CSS and Javascript, and I find out I feel in love with coding fullstack web-apps.
+Passionate web developer with 2+ years exeperience. I started with HTML, CSS and Javascript, and I find out I feel in love with coding fullstack web-apps. But after a while discoing web app, I turn out to be really love how to apply smart technology into web app development. Then I turn to be a Machine Learning engineer.
 
 * 🌍  I'm based in Ho Chi Minh City, Viet Nam.
 * 🖥️  See my portfolio at [Portfolio](http://tctoan.vercel.app/)
