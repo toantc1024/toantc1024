@@ -4,13 +4,12 @@ Hi 👀 My name is Toan
 Web Developer
 -------------
 
-Passionate web developer with 2+ years exeperience. I started with HTML, CSS and Javascript, and I find out I feel in love with coding fullstack web-apps. But after a while discoing web app, I turn out to be really love how to apply smart technology into web app development. Then I turn to be a Machine Learning engineer.
 
-* 🌍  I'm based in Ho Chi Minh City, Viet Nam.
-* 🖥️  See my portfolio at [Portfolio](http://tctoan.vercel.app/)
-* ✉️  You can contact me at [tctoan1024@gmail.com](mailto:tctoan1024@gmail.com)
-* 🧠  I'm learning React Framework
-* ⚡  Passionate reader
+I’m a Machine Learning engineer and web developer based in Bac Lieu Province, Vietnam, with a passion for integrating AI into web applications. My journey started with basic web development like ReactJS and Express, but over time, I became captivated by how Machine Learning can transform web experiences. Today, I focus on building intelligent, data-driven applications that leverage smart technologies to solve real-world problems.
+
+Before diving into AI/ML, I gained hands-on experience in full-stack development, which continues to inform my work. I’m constantly learning, currently exploring React and advanced machine learning models. You can explore my projects at Portfolio.
+
+In addition to my work, I’m passionate about reading, tech innovation, and collaborating with like-minded people. If you’re interested in exploring AI-driven projects or want to connect, feel free to reach out!
 
 ### Skills
 
