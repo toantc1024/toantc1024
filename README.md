@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Toan
 ---
 
-**AI/ML Engineer & Web Developer**  
+**AI/ML Engineer & Freelance Web Developer**  
 *Based in Bac Lieu Province, Vietnam*
 
 ---
@@ -42,8 +42,6 @@ I'm currently diving deeper into advanced machine learning models and modern fro
 <a href="https://github.com/toantc1024"><img src="https://github-readme-stats.vercel.app/api?username=toantc1024&show_icons=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" alt="Toan's GitHub Stats" /></a>
 
 <a href="https://github.com/toantc1024"><img src="https://github-readme-streak-stats.herokuapp.com/?user=toantc1024&theme=dark&hide_border=true&ring=3382ed&currStreakLabel=3382ed" alt="Toan's GitHub Streak" /></a>
-
-<a href="https://github.com/toantc1024"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=toantc1024&bg_color=000000&color=ffffff&line=3382ed&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" alt="GitHub Activity Graph" /></a>
 
 <a href="https://github.com/toantc1024"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toantc1024&layout=compact&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" alt="Top Languages" /></a>
 
